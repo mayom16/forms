@@ -1,0 +1,36 @@
+body{
+    padding: opx;
+    margin: opx;
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.divclass{
+    margin-top: 20px;
+    background-color: grey;
+    display: grid;
+    place-items: center; 
+    width: 55%;
+    height: 500px;
+    margin-left: 20%; 
+    border-radius: 25px;
+    box-shadow: hsl(192, 24%, 96%);
+}
+input{
+    display: grid;
+    place-items: centre;
+    margin:6px ;
+    width: 300px;
+    height: 18px;
+    border-bottom-right-radius:16px ;
+}
+textarea{
+    width: 100px;
+    height: 30px;
+}
+button{
+    float: left;
+width: 120px;
+height: 40px;
+margin-left: 140px;
+border-radius: 6px;
+}
