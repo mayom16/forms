@@ -34,3 +34,18 @@ height: 40px;
 margin-left: 140px;
 border-radius: 6px;
 }
+#button{
+   
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+
+}
+a{
+    text-decoration: none;
+}
+#style{
+    display: grid;
+    place-items: center;
+
+}
